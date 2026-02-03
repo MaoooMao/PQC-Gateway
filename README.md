@@ -1,5 +1,4 @@
 # PQC-Gateway
-# PQC-Gateway
 
 Post-Quantum Cryptography authentication layer for QKD ETSI 014 interface.
 
